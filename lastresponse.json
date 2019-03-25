@@ -1,0 +1,21 @@
+{
+  "@attributes": {
+    "version": "1.2"
+  },
+  "status": {
+    "@attributes": {
+      "step": "finished"
+    }
+  },
+  "id": "yoAigvIu",
+  "videoid": "258308863",
+  "server": "srv96",
+  "file": "Jetman Dubai : Young Feathers 4K.webm",
+  "service": "YouTube",
+  "mediaurl": "https:\/\/www.youtube.com\/watch?v=Czy0pXRRZcs",
+  "downloadurl": "http:\/\/srv96.clipconverter.cc\/download\/39KkoaCmsaewZW5wmZObcG9j5KWmqXJu4pSYbWxjnGdraG20qc%2FMqHyf1qiZpa2d2A%3D%3D\/Jetman%20Dubai%20%3A%20Young%20Feathers%204K.webm",
+  "downloadserver": "srv96",
+  "downloadhash": "39KkoaCmsaewZW5wmZObcG9j5KWmqXJu4pSYbWxjnGdraG20qc%2FMqHyf1qiZpa2d2A%3D%3D",
+  "filesize": "793.9 MB",
+  "debuginfo": "yoAigvIu|258308863|srv96|1553345754|ClipConverter"
+}
